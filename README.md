@@ -1,18 +1,13 @@
 # UNO-ASCII
-An ASCII-based version of UNO, made as a CPT for Grade 11 CS. Features a version of the 'Stacking' rule, and functions just like UNO would if you were playing either the card game or the video-game version. Created by both me and another classmate.
+
+### An ASCII-based version of UNO, made as a CPT for Grade 11 CS. Features a version of the 'Stacking' rule, and functions just like UNO would if you were playing either the card game or the video-game version. Created by both me and another classmate.
 ----------------------------------------------------------------------------
 
 Authors -  Alden DeMello and Sebastian Deluca
 
 Date - 5/21/2019
 
-Version - 1.0
-
 -----------------------------------------------------------------------------
-
-Unit / Question # - Culminating Activity: Text-Based version of UNO!
-
-
 Programming Language - Python 3.4.4
 
 Program Description –  A text-based version of the card game UNO,
@@ -59,8 +54,6 @@ Cards: The cards are represented as actual playing cards you may find at your
 CPU: Intelligent-like choices such that the computer does not play cards it
 	does not have, the computer also changes the colors when played a 
 	plus 4 or wild card (color change).
-
-
 
 Restrictions – None.
 
