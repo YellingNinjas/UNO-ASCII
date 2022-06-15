@@ -1,4 +1,4 @@
-# UNO-ASCII
+ ![UNO Logo](./uno_for_site.png?raw=true)
 
 ### An ASCII-based version of UNO, made as a CPT for Grade 11 CS. Features a version of the 'Stacking' rule, and functions just like UNO would if you were playing either the card game or the video-game version. Created by both me and another classmate.
 ----------------------------------------------------------------------------
@@ -25,6 +25,8 @@ Known Errors - Possibility that when the computer tries to take a card it may
 REQUIREMENTS - Keyboard  NECESSARY
 
 -----------------------------------------------------------------------------
+
+ ![Main Menu](./UNO_main_img.png?raw=true)
 
 Features of Program - 
 
@@ -56,6 +58,8 @@ CPU: Intelligent-like choices such that the computer does not play cards it
 	plus 4 or wild card (color change).
 
 Restrictions – None.
+
+ ![In-Game UI](./UNO_ui_img.png?raw=true)
 
 -----------------------------------------------------------------------------
 
